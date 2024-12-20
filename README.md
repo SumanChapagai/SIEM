@@ -14,6 +14,7 @@ Using Virtualization to create a SIEM lab to detect intrusion and threats.
 <h2>Environments Used </h2>
 
 - <b>Azure</b>
+- <b>Windows 11 pro</b>
 
 <h2>Program walk-through:</h2>
 
@@ -23,8 +24,9 @@ Setting up Azure: <br/>
 <img src="https://i.imgur.com/BkGLT00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuring Network:  <br/>
-<img src="https://i.imgur.com/Awgex4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring VM settings:  <br/>
+<img src="https://i.imgur.com/bKUjvEh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TjRn8ij.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installing Active Domain Controller: <br/>
