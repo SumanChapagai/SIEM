@@ -27,41 +27,50 @@ Setting up Azure: <br/>
 Configuring VM settings:  <br/>
 <img src="https://i.imgur.com/bKUjvEh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/TjRn8ij.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KVaD1Dt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Installing Active Domain Controller: <br/>
-<img src="https://i.imgur.com/XIXEAxs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Microsoft Sentinel: <br/>
+<img src="https://i.imgur.com/xJlXMl3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3aEovsZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating a new admin group/account:  <br/>
-<img src="https://i.imgur.com/mzdCn5D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Checking VM status and settings:  <br/>
+<img src="https://i.imgur.com/RUYWJSl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Remote Access Server:  <br/>
-<img src="https://i.imgur.com/SzLOfrr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/wkPm6mV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding Logger with Microsoft Sentinel:  <br/>
+<img src="https://i.imgur.com/6YPmEPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up DHCP:  <br/>
-<img src="https://i.imgur.com/srla7e8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/k90TKbw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding SIEM to Sentinel:  <br/>
+<img src="https://i.imgur.com/y1sXoQW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bTfXr3K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KBSDLq9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Users with Powershell Script:  <br/>
-<img src="https://i.imgur.com/36ll90f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Data Collection Rule creation for SIEM:  <br/>
+<img src="https://i.imgur.com/Hb7yPuR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Windows client:  <br/>
-<img src="https://i.imgur.com/wSxjpjO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Jx9nuSk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating rule to log sign on events: <br/>
+<img src="https://i.imgur.com/g2vrpmV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Connecting Client to Domain Controller:  <br/>
-<img src="https://i.imgur.com/3JCkRTf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connecting to VM:  <br/>
+<img src="https://i.imgur.com/ED8W9Wx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Finalization and User connection test:  <br/>
-<img src="https://i.imgur.com/M62eRIs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Logged sign in:  <br/>
+<img src="https://i.imgur.com/wTpcGJh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Finalization and connection test:  <br/>
+<img src="https://i.imgur.com/qVoF2Bm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VN4Q2Qt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pf8pi6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gHbzyfx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZcE0OjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
