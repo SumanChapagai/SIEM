@@ -13,7 +13,7 @@ Using Virtualization to create a SIEM lab to detect events, intrusions, and thre
 <h2>Environments Used </h2>
 
 - <b>Azure</b>
-- <b>Windows 11 pro VM</b>
+- <b>Windows 10 pro VM</b>
 
 <h2>Program walk-through:</h2>
 
