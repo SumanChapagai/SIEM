@@ -65,10 +65,6 @@ Logged sign in:  <br/>
 <br />
 <br />
 Finalization and connection test:  <br/>
-<img src="https://i.imgur.com/qVoF2Bm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/VN4Q2Qt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/pf8pi6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/gHbzyfx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ZcE0OjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
