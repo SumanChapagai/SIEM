@@ -8,13 +8,12 @@ Using Virtualization to create a SIEM lab to detect intrusion and threats.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Microsoft Sentinel</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Azure</b>
-- <b>Windows 11 pro</b>
+- <b>Windows 11 pro VM</b>
 
 <h2>Program walk-through:</h2>
 
