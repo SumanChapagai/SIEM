@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Using Virtualization to create a SIEM lab to detect intrusion and threats.
+Using Virtualization to create a SIEM lab to detect events, intrusions, and threats.
 <br />
 
 
