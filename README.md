@@ -1,4 +1,4 @@
-<h1>SIEM Lab</h1>
+<h1>SIEM Lab in Azure</h1>
 
 
 <h2>Description</h2>
